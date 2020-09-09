@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 <!--START_SECTION:waka-->
 ```text
+Week: 01 September, 2020 - 08 September, 2020
+
 Go         9 hrs 46 mins   ████████████████████████▒   97.54 % 
 Markdown   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 YAML       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
