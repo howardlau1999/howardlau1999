@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
+```text
+Go         9 hrs 46 mins   ████████████████████████▒   97.54 % 
+Markdown   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+YAML       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+```
 <!--END_SECTION:waka-->
