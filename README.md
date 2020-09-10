@@ -17,10 +17,12 @@ Here are some ideas to get you started:
 [![Commits Badge](https://badges.pufler.dev/commits/weekly/howardlau1999)](https://badges.pufler.dev)
 <!--START_SECTION:waka-->
 ```text
-Week: 01 September, 2020 - 08 September, 2020
+Week: 02 September, 2020 - 09 September, 2020
 
-Go         9 hrs 46 mins   ████████████████████████▒   97.54 % 
-Markdown   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
-YAML       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Go         10 hrs 7 mins   ███████████████████████▓░   94.56 % 
+Markdown   22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+Makefile   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+YAML       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Docker     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 ```
 <!--END_SECTION:waka-->
