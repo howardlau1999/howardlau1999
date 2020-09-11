@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+⏱ Coding Activity Logging
+
 [![Commits Badge](https://badges.pufler.dev/commits/weekly/howardlau1999)](https://badges.pufler.dev)
+
 <!--START_SECTION:waka-->
 ```text
 Week: 03 September, 2020 - 10 September, 2020
