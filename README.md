@@ -36,4 +36,4 @@ Bash       3 mins          ░░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-[![howardlau1999's github stats](https://github-readme-stats.vercel.app/api?username=howardlau1999)](https://github.com/anuraghazra/github-readme-stats)
+[![howardlau1999's github stats](https://github-readme-stats.vercel.app/api?username=howardlau1999)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=howardlau1999&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
