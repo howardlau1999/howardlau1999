@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 [![Commits Badge](https://badges.pufler.dev/commits/weekly/howardlau1999)](https://badges.pufler.dev)
 
-⏱ Weekly coding hours
+⏱ Weekly coding time
 
 <!--START_SECTION:waka-->
 ```text
