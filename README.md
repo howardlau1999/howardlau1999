@@ -35,3 +35,5 @@ YAML       3 mins          ░░░░░░░░░░░░░░░░░�
 Bash       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 ```
 <!--END_SECTION:waka-->
+
+[![howardlau1999's github stats](https://github-readme-stats.vercel.app/api?username=howardlau1999)](https://github.com/anuraghazra/github-readme-stats)
