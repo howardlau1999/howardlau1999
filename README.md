@@ -18,9 +18,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-⏱ Coding Activity Logging
+💻 Coding Activity Logging
 
 [![Commits Badge](https://badges.pufler.dev/commits/weekly/howardlau1999)](https://badges.pufler.dev)
+
+⏱ Weekly coding hours:
 
 <!--START_SECTION:waka-->
 ```text
