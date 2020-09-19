@@ -26,13 +26,13 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 September, 2020 - 16 September, 2020
+Week: 11 September, 2020 - 18 September, 2020
 
-Go         18 hrs 19 mins  ████████████████████████▒   97.22 % 
-Markdown   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-Makefile   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
-YAML       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-Bash       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Go         13 hrs 52 mins  ████████████████████████▒   97.65 % 
+Markdown   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Makefile   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+YAML       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Docker     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 ```
 <!--END_SECTION:waka-->
 
