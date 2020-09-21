@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 September, 2020 - 19 September, 2020
+Week: 13 September, 2020 - 20 September, 2020
 
 Go         13 hrs 52 mins  ████████████████████████▒   97.65 % 
 Markdown   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
