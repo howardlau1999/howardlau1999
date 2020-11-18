@@ -1,7 +1,7 @@
 ### Hi there 👋
 I have been a GitHub member for [![Years Badge](https://badges.pufler.dev/years/howardlau1999)](https://badges.pufler.dev)
 
-- 🔭 I’m currently pursuing a CS Master degree
+- 🔭 I’m currently pursuing a CS Master degree in NLP
 - 🌱 I’m currently learning NLP and Distributed Systems (mainly focusing on Distributed Databases)
 - 💬 Ask me about databases, Kubernetes, Linux, backend development, artificial intelligence
 - 🤔 I’m looking for help with Computer Graphics, Game Development
