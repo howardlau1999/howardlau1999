@@ -6,6 +6,7 @@ I have been a GitHub member for [![Years Badge](https://badges.pufler.dev/years/
 - 💬 Ask me about databases, Kubernetes, Linux, backend development, artificial intelligence
 - 🤔 I’m looking for help with Computer Graphics, Game Development
 - 😄 I'm intrested in development in many aspects and eager to try new things
+- 📕 Visit my blog (Chinese) at https://howardlau.me
 
 <!--
 **howardlau1999/howardlau1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
