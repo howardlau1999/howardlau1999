@@ -28,14 +28,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 February 2022 - To: 27 February 2022
+From: 21 February 2022 - To: 28 February 2022
 
-Scala             6 hrs 24 mins   █████████▓░░░░░░░░░░░░░░░   38.06 %
-C++               3 hrs 20 mins   █████░░░░░░░░░░░░░░░░░░░░   19.86 %
-YAML              1 hr 19 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
-Markdown          1 hr 1 min      █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
-Go                57 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
-Makefile          54 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
+C++               3 hrs 14 mins   ███████░░░░░░░░░░░░░░░░░░   28.37 %
+Scala             2 hrs 56 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.70 %
+TypeScript        56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
+Makefile          49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
+Go                38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
+YAML              32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
 ```
 
 <!--END_SECTION:waka-->
