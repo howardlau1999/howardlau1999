@@ -29,11 +29,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 March 2022 - To: 13 March 2022
+From: 07 March 2022 - To: 14 March 2022
 
-C       24 mins         ████████████████████████▒   96.82 %
-JSON    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
-Other   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+C       24 mins         ███████████████████▓░░░░░   78.87 %
+sbt     5 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.56 %
+JSON    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+Other   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
 ```
 
 <!--END_SECTION:waka-->
