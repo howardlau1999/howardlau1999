@@ -29,14 +29,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 March 2022 - To: 23 March 2022
+From: 17 March 2022 - To: 24 March 2022
 
-Go               2 hrs 31 mins   ███████████████░░░░░░░░░░   59.78 %
-Scala            1 hr 31 mins    █████████░░░░░░░░░░░░░░░░   35.94 %
-TypeScript       9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
-HTML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Go                 2 hrs 37 mins   █████████████▒░░░░░░░░░░░   52.99 %
+Scala              1 hr 27 mins    ███████▒░░░░░░░░░░░░░░░░░   29.24 %
+Text               19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
+Rust               14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
+GitIgnore file     10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+Flatbuffers file   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
 ```
 
 <!--END_SECTION:waka-->
