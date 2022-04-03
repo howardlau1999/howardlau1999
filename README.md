@@ -29,14 +29,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 March 2022 - To: 01 April 2022
+From: 26 March 2022 - To: 02 April 2022
 
-Go           12 mins         ██████████▓░░░░░░░░░░░░░░   42.70 %
-HTML         9 mins          ████████░░░░░░░░░░░░░░░░░   31.94 %
-TypeScript   4 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.27 %
-Rust         3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
-TOML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Rust   3 mins          ██████████████▓░░░░░░░░░░   59.30 %
+Go     2 mins          █████████▓░░░░░░░░░░░░░░░   38.68 %
+TOML   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
 ```
 
 <!--END_SECTION:waka-->
