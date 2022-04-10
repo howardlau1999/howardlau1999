@@ -29,7 +29,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 02 April 2022 - To: 09 April 2022
+
+Python   16 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
