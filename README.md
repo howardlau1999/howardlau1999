@@ -29,14 +29,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 April 2022 - To: 10 April 2022
+From: 04 April 2022 - To: 11 April 2022
 
-Java             1 hr 32 mins    █████████████▓░░░░░░░░░░░   55.24 %
-Python           48 mins         ███████░░░░░░░░░░░░░░░░░░   28.64 %
-Properties       13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
-MATLAB           8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
-textmate         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
-Markdown         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+Java             1 hr 32 mins    ███████████▓░░░░░░░░░░░░░   46.90 %
+Python           1 hr 5 mins     ████████▒░░░░░░░░░░░░░░░░   33.16 %
+Properties       13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
+MATLAB           8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
+Batchfile        8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
+Text             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
 ```
 
 <!--END_SECTION:waka-->
