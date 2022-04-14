@@ -29,14 +29,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 April 2022 - To: 12 April 2022
+From: 06 April 2022 - To: 13 April 2022
 
-Java             1 hr 32 mins    ███████▓░░░░░░░░░░░░░░░░░   31.11 %
-Rust             1 hr 17 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.13 %
-Python           1 hr 5 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.99 %
-C++              22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
-Properties       13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
-MATLAB           8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+Rust               17 hrs 51 mins  ███████████████████▒░░░░░   76.67 %
+Java               1 hr 24 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
+Python             49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
+Cap'n Proto        40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+Markdown           31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
+C                  25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
 ```
 
 <!--END_SECTION:waka-->
