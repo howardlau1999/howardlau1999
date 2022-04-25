@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 April 2022 - To: 23 April 2022
+From: 17 April 2022 - To: 24 April 2022
 
 Rust         2 hrs 41 mins   ██████████████▒░░░░░░░░░░   57.29 %
 CMake        44 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.90 %
