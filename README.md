@@ -29,14 +29,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 April 2022 - To: 26 April 2022
+From: 20 April 2022 - To: 27 April 2022
 
-Rust         49 mins         ████████▓░░░░░░░░░░░░░░░░   34.23 %
-CMake        44 mins         ███████▓░░░░░░░░░░░░░░░░░   31.13 %
-C++          22 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.71 %
-JSON         11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
-Bash         7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
-Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+Git Config   0 secs          █████████████░░░░░░░░░░░░   51.75 %
+Java         0 secs          ████████████░░░░░░░░░░░░░   48.25 %
 ```
 
 <!--END_SECTION:waka-->
