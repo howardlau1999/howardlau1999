@@ -29,14 +29,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 April 2022 - To: 05 May 2022
+From: 29 April 2022 - To: 06 May 2022
 
-Rust             8 hrs 7 mins    ███████████████████░░░░░░   76.64 %
-Assembly         51 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
-TOML             42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
-Markdown         22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
-XML              13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
-HTML             4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+Rust             7 hrs 41 mins   ███████████████████▓░░░░░   78.77 %
+Assembly         51 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 %
+TOML             39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
+XML              11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+Markdown         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+Other            4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
 ```
 
 <!--END_SECTION:waka-->
