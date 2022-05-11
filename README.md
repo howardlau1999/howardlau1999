@@ -29,13 +29,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 May 2022 - To: 09 May 2022
+From: 03 May 2022 - To: 10 May 2022
 
-Rust             9 hrs 11 mins   ███████████████████▒░░░░░   77.62 %
-Assembly         58 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
-C                47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
-TOML             34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
-Other            8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Rust       8 hrs 32 mins   ███████████████████▒░░░░░   77.86 %
+Assembly   58 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 %
+C          47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
+TOML       13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+Other      8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
 ```
 
 <!--END_SECTION:waka-->
