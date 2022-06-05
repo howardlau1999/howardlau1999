@@ -29,14 +29,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 May 2022 - To: 03 June 2022
+From: 28 May 2022 - To: 04 June 2022
 
-Scala         2 hrs 13 mins   ███████▓░░░░░░░░░░░░░░░░░   30.64 %
-C             1 hr 38 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.57 %
-Markdown      1 hr 28 mins    █████░░░░░░░░░░░░░░░░░░░░   20.36 %
-Go            37 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
-JSON          20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
-TypeScript    15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+Scala         5 hrs 31 mins   ████████████▓░░░░░░░░░░░░   51.32 %
+C             1 hr 38 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.19 %
+Markdown      1 hr 27 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.46 %
+Go            37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
+JSON          20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+TypeScript    15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
 ```
 
 <!--END_SECTION:waka-->
