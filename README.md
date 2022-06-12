@@ -29,14 +29,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 June 2022 - To: 10 June 2022
+From: 04 June 2022 - To: 11 June 2022
 
-Scala            17 hrs 39 mins  ██████████████▓░░░░░░░░░░   58.53 %
-C                7 hrs 23 mins   ██████░░░░░░░░░░░░░░░░░░░   24.47 %
-Assembly         1 hr 31 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
-C++              1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
-ca65 assembler   52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
-Tcl              31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+Scala            15 hrs 23 mins  ██████████████░░░░░░░░░░░   55.40 %
+C                7 hrs 29 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.97 %
+Assembly         1 hr 31 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
+C++              1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
+ca65 assembler   53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+Tcl              31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
 ```
 
 <!--END_SECTION:waka-->
