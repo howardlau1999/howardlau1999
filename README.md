@@ -29,14 +29,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 June 2022 - To: 15 June 2022
+From: 09 June 2022 - To: 16 June 2022
 
-Scala            6 hrs 57 mins   ██████████░░░░░░░░░░░░░░░   39.55 %
-C                5 hrs 2 mins    ███████▒░░░░░░░░░░░░░░░░░   28.67 %
-Python           2 hrs 16 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.88 %
-Markdown         1 hr 16 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
-ca65 assembler   53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
-Tcl              31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+Scala            4 hrs 57 mins   ████████▒░░░░░░░░░░░░░░░░   33.19 %
+C                4 hrs 55 mins   ████████▒░░░░░░░░░░░░░░░░   33.05 %
+Python           2 hrs 16 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.19 %
+Markdown         1 hr 16 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 %
+ca65 assembler   53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
+Assembly         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
 ```
 
 <!--END_SECTION:waka-->
