@@ -29,14 +29,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 June 2022 - To: 18 June 2022
+From: 12 June 2022 - To: 19 June 2022
 
-Scala            2 hrs 43 mins   ███████▓░░░░░░░░░░░░░░░░░   30.67 %
-C                2 hrs 25 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.30 %
-Python           2 hrs 9 mins    ██████░░░░░░░░░░░░░░░░░░░   24.27 %
-Markdown         1 hr 17 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.56 %
-BibTeX           6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-CMake            5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+Python           3 hrs 26 mins   ████████▒░░░░░░░░░░░░░░░░   33.86 %
+Scala            2 hrs 43 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.75 %
+C                2 hrs 25 mins   ██████░░░░░░░░░░░░░░░░░░░   23.80 %
+Markdown         1 hr 17 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.70 %
+BibTeX           6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+CMake            5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
 ```
 
 <!--END_SECTION:waka-->
