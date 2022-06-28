@@ -29,14 +29,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 June 2022 - To: 26 June 2022
+From: 20 June 2022 - To: 27 June 2022
 
-Go                4 hrs 15 mins   █████████░░░░░░░░░░░░░░░░   35.49 %
-Python            4 hrs 9 mins    ████████▓░░░░░░░░░░░░░░░░   34.74 %
-Markdown          1 hr 31 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.74 %
-JSON              39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
-TypeScript        37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
-YAML              14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+Go                4 hrs 15 mins   ████████████░░░░░░░░░░░░░   47.53 %
+Python            2 hrs 35 mins   ███████▒░░░░░░░░░░░░░░░░░   28.97 %
+JSON              39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
+TypeScript        37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
+Markdown          27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
+Rust              8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
 ```
 
 <!--END_SECTION:waka-->
