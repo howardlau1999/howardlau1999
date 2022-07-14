@@ -29,10 +29,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 July 2022 - To: 12 July 2022
+From: 06 July 2022 - To: 13 July 2022
 
-Scala   8 mins          ██████████████████████▒░░   89.17 %
-Tcl     0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 %
+C++     52 mins         █████████████████░░░░░░░░   67.95 %
+C       13 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.96 %
+Scala   8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.60 %
+JSON    1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+Tcl     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+CMake   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 ```
 
 <!--END_SECTION:waka-->
