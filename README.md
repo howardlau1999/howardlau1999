@@ -29,13 +29,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 July 2022 - To: 21 July 2022
+From: 15 July 2022 - To: 22 July 2022
 
-Markdown   10 mins         ████████████▓░░░░░░░░░░░░   50.72 %
-Scala      6 mins          ███████▓░░░░░░░░░░░░░░░░░   30.28 %
-TOML       3 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.23 %
-sbt        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
-Rust       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Markdown   10 mins         ███████████████░░░░░░░░░░   60.55 %
+Scala      6 mins          █████████░░░░░░░░░░░░░░░░   36.15 %
+sbt        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
 ```
 
 <!--END_SECTION:waka-->
