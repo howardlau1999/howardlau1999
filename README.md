@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 July 2022 - To: 23 July 2022
+From: 17 July 2022 - To: 24 July 2022
 
 Markdown   10 mins         ███████████████░░░░░░░░░░   60.55 %
 Scala      6 mins          █████████░░░░░░░░░░░░░░░░   36.15 %
