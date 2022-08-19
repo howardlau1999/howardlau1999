@@ -29,11 +29,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 August 2022 - To: 16 August 2022
-
-Markdown   1 hr 2 mins     ██████████████████████▓░░   90.30 %
-Text       6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 %
-YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
