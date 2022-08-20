@@ -29,7 +29,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 12 August 2022 - To: 19 August 2022
+
+CSV        33 mins         ████████████▓░░░░░░░░░░░░   50.56 %
+Python     29 mins         ███████████░░░░░░░░░░░░░░   44.03 %
+Text       3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->
