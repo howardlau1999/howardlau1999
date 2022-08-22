@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 August 2022 - To: 20 August 2022
+From: 14 August 2022 - To: 21 August 2022
 
 Python     1 hr 23 mins    ████████████████░░░░░░░░░   63.71 %
 CSV        43 mins         ████████▒░░░░░░░░░░░░░░░░   33.50 %
