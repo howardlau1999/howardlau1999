@@ -29,14 +29,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 August 2022 - To: 28 August 2022
+From: 22 August 2022 - To: 29 August 2022
 
-Assembly      13 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.71 %
-C             12 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.32 %
-Python        11 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.03 %
-Scala         8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.91 %
-C++           7 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.20 %
-Objective-C   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+C++           1 hr 8 mins     ███████░░░░░░░░░░░░░░░░░░   28.43 %
+Markdown      48 mins         █████░░░░░░░░░░░░░░░░░░░░   20.21 %
+C             36 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.25 %
+Objective-C   32 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.54 %
+YAML          25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.35 %
+Assembly      13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
 ```
 
 <!--END_SECTION:waka-->
