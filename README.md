@@ -29,14 +29,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 September 2022 - To: 24 September 2022
+From: 18 September 2022 - To: 25 September 2022
 
-C++          31 hrs 11 mins  ████████████████████░░░░░   80.55 %
-CMake        2 hrs 44 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
-C            1 hr 53 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
-TypeScript   1 hr 46 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
-JSON         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-Bash         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+C++          29 hrs 50 mins  ████████████████████▒░░░░   80.90 %
+CMake        2 hrs 22 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
+C            1 hr 52 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
+TypeScript   1 hr 45 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
+Bash         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+JSON         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
 ```
 
 <!--END_SECTION:waka-->
