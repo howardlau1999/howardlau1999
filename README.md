@@ -29,11 +29,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 September 2022 - To: 03 October 2022
+From: 27 September 2022 - To: 04 October 2022
 
-C++          5 hrs 5 mins    ███████████████████████▒░   93.47 %
-C            19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
+C++          4 hrs 46 mins   █████████████████████▓░░░   87.01 %
+C            21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
+Rust         18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
 CMake        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
