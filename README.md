@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 October 2022 - To: 16 October 2022
+From: 10 October 2022 - To: 17 October 2022
 
-C++    3 mins          █████████████████████▓░░░   87.02 %
-C      0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 %
-JSON   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
+JavaScript   25 mins         ████████████████████████░   96.04 %
+Markdown     0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
