@@ -29,14 +29,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 October 2022 - To: 23 October 2022
+From: 17 October 2022 - To: 24 October 2022
 
-JavaScript   32 mins         █████████████░░░░░░░░░░░░   52.54 %
-Markdown     15 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.69 %
-C            8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.37 %
-YAML         3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
-TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
-Bash         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+CMake         1 hr 5 mins     ███████████░░░░░░░░░░░░░░   44.52 %
+C++           22 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.23 %
+Markdown      18 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 %
+C             11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 %
+Git Config    9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
+JavaScript    7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
 ```
 
 <!--END_SECTION:waka-->
