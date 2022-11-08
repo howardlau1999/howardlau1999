@@ -29,11 +29,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 October 2022 - To: 06 November 2022
+From: 31 October 2022 - To: 07 November 2022
 
-C++          3 hrs 9 mins    ████████████░░░░░░░░░░░░░   47.50 %
-Markdown     1 hr 4 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.17 %
-Other        39 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.03 %
+C++          1 hr 35 mins    █████████▓░░░░░░░░░░░░░░░   39.12 %
+Markdown     57 mins         ██████░░░░░░░░░░░░░░░░░░░   23.49 %
+YAML         36 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.81 %
+Docker       22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.43 %
+Other        17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
 ```
 
 <!--END_SECTION:waka-->
