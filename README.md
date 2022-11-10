@@ -29,14 +29,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 November 2022 - To: 08 November 2022
+From: 02 November 2022 - To: 09 November 2022
 
-Markdown     57 mins         █████████▒░░░░░░░░░░░░░░░   37.74 %
-YAML         36 mins         ██████░░░░░░░░░░░░░░░░░░░   23.79 %
-Docker       22 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.14 %
-C++          22 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.03 %
-sbt          7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
-Scala        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+Markdown      57 mins         ███████████░░░░░░░░░░░░░░   44.38 %
+YAML          36 mins         ███████░░░░░░░░░░░░░░░░░░   27.98 %
+Docker        22 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.81 %
+sbt           7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
+Scala         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+Properties    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
 ```
 
 <!--END_SECTION:waka-->
