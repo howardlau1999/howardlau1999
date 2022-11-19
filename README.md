@@ -29,14 +29,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 November 2022 - To: 17 November 2022
+From: 11 November 2022 - To: 18 November 2022
 
-C++           1 hr 5 mins     ██████████▒░░░░░░░░░░░░░░   41.01 %
-C             29 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.37 %
-Markdown      17 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.32 %
-CMake         17 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.75 %
-Objective-C   16 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.28 %
-Go            6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
+C++           30 mins         █████████░░░░░░░░░░░░░░░░   35.44 %
+Markdown      19 mins         ██████░░░░░░░░░░░░░░░░░░░   23.44 %
+CMake         17 mins         █████░░░░░░░░░░░░░░░░░░░░   20.03 %
+Go            6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
+C             5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
+Other         4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
 ```
 
 <!--END_SECTION:waka-->
