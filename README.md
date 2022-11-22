@@ -29,12 +29,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 November 2022 - To: 20 November 2022
+From: 14 November 2022 - To: 21 November 2022
 
-C++           26 mins         ███████████▓░░░░░░░░░░░░░   47.15 %
-CMake         17 mins         ███████▓░░░░░░░░░░░░░░░░░   30.43 %
-Go            6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.41 %
-Other         4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 %
+Go   6 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
