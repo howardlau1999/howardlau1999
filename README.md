@@ -29,7 +29,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 01 December 2022 - To: 08 December 2022
+
+Markdown   30 mins         ██████████████████▓░░░░░░   75.13 %
+Scala      10 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.86 %
+CMake      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
