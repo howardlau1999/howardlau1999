@@ -29,11 +29,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 December 2022 - To: 19 December 2022
-
-Scala      8 mins          █████████████████████▒░░░   85.03 %
-C          0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.90 %
-Assembly   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
