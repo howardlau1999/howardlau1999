@@ -29,7 +29,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 10 January 2023 - To: 17 January 2023
+
+XML      27 mins         ███████████████████████▒░   93.19 %
+Python   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
 ```
 
 <!--END_SECTION:waka-->
