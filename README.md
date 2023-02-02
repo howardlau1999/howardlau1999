@@ -29,7 +29,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 25 January 2023 - To: 01 February 2023
+
+YAML   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
