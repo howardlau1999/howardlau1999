@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 January 2023 - To: 07 February 2023
+From: 01 February 2023 - To: 08 February 2023
 
-XML    5 mins          ████████████████░░░░░░░░░   63.67 %
-YAML   3 mins          █████████░░░░░░░░░░░░░░░░   36.33 %
+XML          5 mins          ████████████████████▒░░░░   81.10 %
+JavaScript   1 min           ████▓░░░░░░░░░░░░░░░░░░░░   18.90 %
 ```
 
 <!--END_SECTION:waka-->
