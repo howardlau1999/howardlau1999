@@ -29,12 +29,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 March 2023 - To: 08 March 2023
+From: 02 March 2023 - To: 09 March 2023
 
-C++          2 hrs 2 mins    █████████████▒░░░░░░░░░░░   53.13 %
-Python       1 hr 26 mins    █████████▒░░░░░░░░░░░░░░░   37.72 %
-JSON         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
-Other        7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+C++              2 hrs 26 mins   ███████████████████████▒░   93.59 %
+ca65 assembler   8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
+Text             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
 ```
 
 <!--END_SECTION:waka-->
