@@ -29,12 +29,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 April 2023 - To: 11 April 2023
+From: 05 April 2023 - To: 12 April 2023
 
-Markdown   2 hrs 50 mins   █████████████▓░░░░░░░░░░░   54.46 %
-C++        1 hr 44 mins    ████████▒░░░░░░░░░░░░░░░░   33.24 %
-Python     14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
-Other      14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
+Markdown   3 hrs 2 mins    ██████████████░░░░░░░░░░░   56.17 %
+C++        1 hr 44 mins    ████████░░░░░░░░░░░░░░░░░   31.99 %
+Python     14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
+Other      14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
 ```
 
 <!--END_SECTION:waka-->
