@@ -29,10 +29,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 April 2023 - To: 17 April 2023
+From: 11 April 2023 - To: 18 April 2023
 
-Markdown       3 hrs 22 mins   █████████████░░░░░░░░░░░░   52.28 %
-Other          2 hrs 29 mins   █████████▓░░░░░░░░░░░░░░░   38.54 %
+Other          3 hrs 14 mins   ███████████░░░░░░░░░░░░░░   43.52 %
 ```
 
 <!--END_SECTION:waka-->
