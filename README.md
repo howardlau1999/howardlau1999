@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 April 2023 - To: 24 April 2023
+From: 18 April 2023 - To: 25 April 2023
 
-YAML           4 hrs 39 mins   ███████▒░░░░░░░░░░░░░░░░░   29.10 %
-Markdown       3 hrs 37 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.63 %
-Other          2 hrs 29 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.59 %
+YAML           4 hrs 4 mins    ████████▓░░░░░░░░░░░░░░░░   34.04 %
+Markdown       2 hrs 27 mins   █████░░░░░░░░░░░░░░░░░░░░   20.51 %
+Other          1 hr 44 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.55 %
 ```
 
 <!--END_SECTION:waka-->
