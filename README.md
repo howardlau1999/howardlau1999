@@ -29,14 +29,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 April 2023 - To: 26 April 2023
+From: 20 April 2023 - To: 27 April 2023
 
-YAML         2 hrs 2 mins    ███████▒░░░░░░░░░░░░░░░░░   29.34 %
-Markdown     1 hr 51 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.78 %
-Scala        1 hr 32 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.34 %
-sbt          56 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.49 %
-Docker       9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
-JSON         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+Markdown   57 mins         ████████████████░░░░░░░░░   63.77 %
+YAML       18 mins         █████░░░░░░░░░░░░░░░░░░░░   20.11 %
+sbt        14 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.11 %
 ```
 
 <!--END_SECTION:waka-->
