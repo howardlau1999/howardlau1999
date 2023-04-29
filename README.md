@@ -29,11 +29,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 April 2023 - To: 27 April 2023
+From: 21 April 2023 - To: 28 April 2023
 
-Markdown   57 mins         ████████████████░░░░░░░░░   63.77 %
-YAML       18 mins         █████░░░░░░░░░░░░░░░░░░░░   20.11 %
-sbt        14 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.11 %
+Markdown   35 mins         ████████████████████████▓   98.43 %
+YAML       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
 ```
 
 <!--END_SECTION:waka-->
