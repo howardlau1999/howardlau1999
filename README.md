@@ -29,9 +29,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 June 2023 - To: 20 June 2023
+From: 14 June 2023 - To: 21 June 2023
 
-No activity tracked
+Markdown   6 mins          ████████████████▓░░░░░░░░   66.43 %
+Text       3 mins          ████████▒░░░░░░░░░░░░░░░░   33.57 %
 ```
 
 <!--END_SECTION:waka-->
