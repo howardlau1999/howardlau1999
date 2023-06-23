@@ -29,10 +29,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 June 2023 - To: 21 June 2023
+From: 15 June 2023 - To: 22 June 2023
 
-Markdown   6 mins          ████████████████▓░░░░░░░░   66.43 %
-Text       3 mins          ████████▒░░░░░░░░░░░░░░░░   33.57 %
+C++        1 hr 2 mins     ███████████████████░░░░░░   76.17 %
+C          7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 %
+Markdown   6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 %
+Text       3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
+CMake      2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
 ```
 
 <!--END_SECTION:waka-->
