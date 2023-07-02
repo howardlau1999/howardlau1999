@@ -29,13 +29,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 June 2023 - To: 30 June 2023
+From: 24 June 2023 - To: 01 July 2023
 
-Bash          2 hrs 26 mins   ████████▒░░░░░░░░░░░░░░░░   33.50 %
-C++           1 hr 44 mins    ██████░░░░░░░░░░░░░░░░░░░   23.77 %
-TypeScript    1 hr 1 min      ███▓░░░░░░░░░░░░░░░░░░░░░   14.07 %
-CMake         36 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
-Other         33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
+CMake         2 hrs 19 mins   ███████░░░░░░░░░░░░░░░░░░   28.08 %
+Bash          1 hr 41 mins    █████░░░░░░░░░░░░░░░░░░░░   20.44 %
+C++           1 hr 38 mins    █████░░░░░░░░░░░░░░░░░░░░   19.86 %
+TypeScript    1 hr 2 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.53 %
+C             29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
 ```
 
 <!--END_SECTION:waka-->
