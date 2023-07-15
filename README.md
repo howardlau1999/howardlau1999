@@ -29,13 +29,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 July 2023 - To: 13 July 2023
+From: 07 July 2023 - To: 14 July 2023
 
-Docker     14 mins         ██████████▓░░░░░░░░░░░░░░   42.92 %
-Bash       12 mins         █████████▒░░░░░░░░░░░░░░░   37.59 %
-YAML       4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.86 %
-CMake      0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
-C++        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
