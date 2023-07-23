@@ -29,11 +29,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 July 2023 - To: 20 July 2023
+From: 15 July 2023 - To: 22 July 2023
 
-YAML       4 mins          ███████████████████▓░░░░░   79.31 %
-Markdown   0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   14.60 %
-Other      0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
+YAML              2 hrs 5 mins    ████████████████▒░░░░░░░░   64.97 %
+Bash              17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 %
+Go                17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 %
+Jinja2            13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
+Other             9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
 ```
 
 <!--END_SECTION:waka-->
