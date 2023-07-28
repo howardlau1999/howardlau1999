@@ -29,13 +29,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 July 2023 - To: 26 July 2023
+From: 20 July 2023 - To: 27 July 2023
 
-YAML              2 hrs 58 mins   ██████████░░░░░░░░░░░░░░░   40.57 %
-Go                1 hr 6 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.98 %
-C++               1 hr 1 min      ███▓░░░░░░░░░░░░░░░░░░░░░   14.04 %
-Python            56 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.70 %
-Other             21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
+Go                4 hrs 23 mins   █████████░░░░░░░░░░░░░░░░   35.74 %
+YAML              3 hrs 12 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.11 %
+Python            1 hr 10 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.53 %
+C++               1 hr 1 min      ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 %
+Bash              39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
 ```
 
 <!--END_SECTION:waka-->
