@@ -29,13 +29,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 July 2023 - To: 04 August 2023
+From: 29 July 2023 - To: 05 August 2023
 
-Go                4 hrs 51 mins   ██████████████████▒░░░░░░   72.79 %
-Python            1 hr            ███▓░░░░░░░░░░░░░░░░░░░░░   15.09 %
-Other             16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
-C                 16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
-Bash              12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+Go                4 hrs 37 mins   ██████████████████▓░░░░░░   74.86 %
+Python            1 hr 1 min      ████▒░░░░░░░░░░░░░░░░░░░░   16.73 %
+Other             16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
+Bash              12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
+YAML              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 ```
 
 <!--END_SECTION:waka-->
