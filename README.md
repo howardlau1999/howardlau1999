@@ -29,13 +29,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 August 2023 - To: 12 August 2023
+From: 06 August 2023 - To: 13 August 2023
 
-Go       1 hr 53 mins    ███████████████████░░░░░░   76.23 %
-C++      31 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.14 %
-CSV      3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
-Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Go     35 mins         ████████████████████████▓   98.63 %
+C++    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+Text   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
 <!--END_SECTION:waka-->
