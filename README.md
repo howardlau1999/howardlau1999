@@ -29,9 +29,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 August 2023 - To: 30 August 2023
+From: 24 August 2023 - To: 31 August 2023
 
-C++   15 mins         █████████████████████████   100.00 %
+C++     33 mins         ███████████████████████▓░   94.06 %
+C       1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+CMake   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
