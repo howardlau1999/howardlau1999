@@ -29,13 +29,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 August 2023 - To: 06 September 2023
+From: 31 August 2023 - To: 07 September 2023
 
-C++        18 mins         ██████████████████████▒░░   89.17 %
-C          1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
-CMake      0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
-Go         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Go         0 secs          ██████████████████████▒░░   89.70 %
+Markdown   0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
+YAML       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+go.mod     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 ```
 
 <!--END_SECTION:waka-->
