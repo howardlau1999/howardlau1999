@@ -29,10 +29,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 September 2023 - To: 18 September 2023
+From: 12 September 2023 - To: 19 September 2023
 
-YAML       12 mins         ████████████████░░░░░░░░░   64.45 %
-Markdown   6 mins          █████████░░░░░░░░░░░░░░░░   35.55 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
