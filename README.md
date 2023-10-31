@@ -29,11 +29,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 October 2023 - To: 29 October 2023
+From: 23 October 2023 - To: 30 October 2023
 
-Rust    5 mins          ██████████████████████░░░   88.44 %
-TOML    0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 %
-Other   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+Rust   5 mins          ██████████████████████▓░░   90.26 %
+TOML   0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 %
 ```
 
 <!--END_SECTION:waka-->
