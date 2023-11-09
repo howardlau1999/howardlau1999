@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 October 2023 - To: 06 November 2023
+From: 31 October 2023 - To: 07 November 2023
 
-Markdown   14 mins         ███████████████████▒░░░░░   76.78 %
-C++        4 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.45 %
-C          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+Markdown   53 mins         ███████████████████████░░   92.49 %
+C++        4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
+C          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
