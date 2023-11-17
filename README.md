@@ -29,13 +29,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 November 2023 - To: 14 November 2023
+From: 09 November 2023 - To: 16 November 2023
 
-Other        1 hr 55 mins    ██████████████████░░░░░░░   71.68 %
-PowerShell   22 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.98 %
-Markdown     9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
-YAML         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
-Bash         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+Other        1 hr 55 mins    ██████████████████▓░░░░░░   74.86 %
+PowerShell   22 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.61 %
+Markdown     9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
+YAML         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+Rust         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
 ```
 
 <!--END_SECTION:waka-->
