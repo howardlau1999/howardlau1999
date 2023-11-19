@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2023 - To: 16 November 2023
+From: 10 November 2023 - To: 17 November 2023
 
 Other        1 hr 55 mins    ██████████████████▓░░░░░░   74.86 %
 PowerShell   22 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.61 %
