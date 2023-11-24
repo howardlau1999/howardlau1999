@@ -5,7 +5,7 @@ I have been a GitHub member for [![Years Badge](https://badges.pufler.dev/years/
 - 🌱 I’m currently researching on Parallel File System.
 - 💬 Ask me about RDMA, SPDK, databases, Kubernetes, Linux, backend development, artificial intelligence
 - 🤔 Thinking of arts meeting with computers, such as Computer Graphics, Game Development, Music Generation
-- 😄 I'm intrested in development in many aspects and eager to try new things
+- 😄 I'm interested in development in many aspects and eager to try new things
 - 💬 Talk with me in Cantonese (粤语, Native), Mandarin (普通话, Native), English (Fluent, TOEFL 108)
 - 📕 Visit my blog (Chinese) at https://howardlau.me
 
