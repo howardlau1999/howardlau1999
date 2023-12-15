@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 December 2023 - To: 13 December 2023
+From: 07 December 2023 - To: 14 December 2023
 
 C++          7 mins          ██████████████▓░░░░░░░░░░   58.80 %
 Markdown     3 mins          ███████░░░░░░░░░░░░░░░░░░   27.93 %
