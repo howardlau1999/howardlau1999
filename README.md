@@ -29,11 +29,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 December 2023 - To: 16 December 2023
+From: 10 December 2023 - To: 17 December 2023
 
-C++        7 mins          ███████████████▓░░░░░░░░░   63.07 %
-Markdown   3 mins          ███████▒░░░░░░░░░░░░░░░░░   29.34 %
-Other      0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
