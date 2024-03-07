@@ -29,13 +29,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 February 2024 - To: 05 March 2024
+From: 28 February 2024 - To: 06 March 2024
 
-TeX            6 hrs 25 mins   █████████████████████░░░░   83.39 %
-C++            34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
-Python         21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
-BibTeX         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
-Text           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+TeX            6 hrs 31 mins   █████████████████████▓░░░   86.66 %
+BibTeX         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+Bash           14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
+C++            10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
+C              8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
 ```
 
 <!--END_SECTION:waka-->
