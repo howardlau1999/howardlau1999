@@ -29,11 +29,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 March 2024 - To: 13 March 2024
+From: 07 March 2024 - To: 14 March 2024
 
-TeX    1 hr 31 mins    ██████████████████████▒░░   89.24 %
-INI    9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 %
-Bash   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+TeX   18 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
