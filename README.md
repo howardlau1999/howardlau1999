@@ -29,13 +29,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 March 2024 - To: 24 March 2024
+From: 18 March 2024 - To: 25 March 2024
 
-Markdown      5 mins          █████████████████████▓░░░   86.66 %
-TeX           0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
-Mathematica   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
-Go            0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
-Python        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
