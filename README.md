@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 March 2024 - To: 28 March 2024
+From: 22 March 2024 - To: 29 March 2024
 
 TeX      1 hr 7 mins     █████████████████████████   99.99 %
 BibTeX   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
