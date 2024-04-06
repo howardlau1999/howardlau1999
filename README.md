@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 March 2024 - To: 04 April 2024
+From: 29 March 2024 - To: 05 April 2024
 
-TeX      1 hr 54 mins    ███████████████████████▒░   93.89 %
-Python   7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
-C        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+TeX      1 hr 57 mins    ██████████████████████▒░░   88.71 %
+Python   14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.97 %
+C        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
