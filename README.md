@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 March 2024 - To: 06 April 2024
+From: 31 March 2024 - To: 07 April 2024
 
 TeX      1 hr 57 mins    ██████████████████████▒░░   88.71 %
 Python   14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.97 %
