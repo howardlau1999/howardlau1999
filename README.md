@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 May 2024 - To: 13 May 2024
+From: 07 May 2024 - To: 14 May 2024
 
 Python       1 hr 5 mins     ███████████▓░░░░░░░░░░░░░   46.05 %
 Text         31 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.40 %
