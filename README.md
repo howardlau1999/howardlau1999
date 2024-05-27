@@ -29,12 +29,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 May 2024 - To: 25 May 2024
+From: 19 May 2024 - To: 26 May 2024
 
-Text     3 hrs 30 mins   █████████████░░░░░░░░░░░░   52.35 %
-Python   2 hrs 15 mins   ████████▒░░░░░░░░░░░░░░░░   33.75 %
-JSON     40 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.06 %
-Other    15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
+Text     4 hrs 4 mins    ███████████▓░░░░░░░░░░░░░   46.11 %
+Python   3 hrs 14 mins   █████████░░░░░░░░░░░░░░░░   36.60 %
+JSON     1 hr 16 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.39 %
+Other    15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
 ```
 
 <!--END_SECTION:waka-->
