@@ -29,12 +29,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 May 2024 - To: 07 June 2024
+From: 01 June 2024 - To: 08 June 2024
 
-Python   16 mins         ████████████████▒░░░░░░░░   64.89 %
-Text     6 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.45 %
-Other    2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 %
-JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
