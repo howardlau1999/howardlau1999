@@ -29,13 +29,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 November 2024 - To: 10 November 2024
+From: 04 November 2024 - To: 11 November 2024
 
-TeX           1 hr 17 mins    ████████████████████▒░░░░   81.19 %
-BibTeX        16 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.64 %
-Git Config    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-Makefile      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-JSON          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+TeX           1 hr 55 mins    █████████████████████▓░░░   86.57 %
+BibTeX        16 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.59 %
+Git Config    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+Makefile      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+JSON          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
