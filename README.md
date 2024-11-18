@@ -29,11 +29,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2024 - To: 16 November 2024
+From: 10 November 2024 - To: 17 November 2024
 
-TeX      1 hr 16 mins    █████████████████████▓░░░   87.25 %
-BibTeX   11 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.73 %
-BST      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+TeX      1 hr 22 mins    █████████████████████░░░░   84.45 %
+BibTeX   15 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.55 %
 ```
 
 <!--END_SECTION:waka-->
