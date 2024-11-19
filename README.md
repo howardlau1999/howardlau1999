@@ -29,10 +29,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 November 2024 - To: 17 November 2024
+From: 11 November 2024 - To: 18 November 2024
 
-TeX      1 hr 22 mins    █████████████████████░░░░   84.45 %
-BibTeX   15 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.55 %
+TeX            1 hr 2 mins     ███████████████████░░░░░░   76.23 %
+BibTeX         15 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.46 %
+OpenEdge ABL   4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
+Python         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
