@@ -29,11 +29,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 November 2024 - To: 24 November 2024
+From: 18 November 2024 - To: 25 November 2024
 
-TeX            18 mins         ████████████████████▒░░░░   81.19 %
-OpenEdge ABL   4 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.79 %
-Python         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
